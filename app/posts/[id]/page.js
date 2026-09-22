@@ -26,7 +26,7 @@ export async function generateMetadata({ params }) {
   }
 
   return {
-    title: `${postData.title} | DevBlog`,
+    title: `${postData.title} | Edev`,
     description: postData.description,
   };
 }

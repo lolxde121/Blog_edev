@@ -2,8 +2,8 @@ import './globals.css';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Mi Blog Estático',
-  description: 'Blog estático creado con Next.js y Markdown',
+  title: 'Edev',
+  description: 'Blog de desarrollo, algoritmos y tecnología',
 };
 
 export default function RootLayout({ children }) {
@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
         <header className="site-header">
           <div className="container">
             <Link href="/" className="site-title">
-              📝 DevBlog
+              📝 Edev
             </Link>
           </div>
         </header>
