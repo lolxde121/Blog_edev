@@ -32,3 +32,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# archives and local extras
+*.tar.gz
+*.zip
+sistema_control_escolar/
