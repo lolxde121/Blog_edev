@@ -11,7 +11,7 @@ export default function Home() {
      y pon aquí: avatarUrl: "/mi-foto.jpg"
      ========================================================================== */
   const profile = {
-    avatarUrl: '/avatar.svg', // 📸 Ruta a tu foto en /public (ej: "/avatar.png", "/foto.jpg")
+    avatarUrl: '/mifotoV2.png', // 📸 Ruta a tu foto en /public (ej: "/avatar.png", "/foto.jpg")
     name: 'Edgar', // 👤 Tu nombre
     role: 'Desarrollador de Software & Tech Enthusiast', // 💼 Tu rol o especialidad
     bio: '¡Hola! 👋 Bienvenido a mi blog personal. Aquí comparto notas, artículos y aprendizajes sobre desarrollo de software, algoritmos, proyectos y tecnología.',
